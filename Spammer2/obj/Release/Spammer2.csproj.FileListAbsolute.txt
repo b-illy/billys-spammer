@@ -1,0 +1,10 @@
+C:\Users\Billy\Desktop\Other\Coding\C#\Spammer2\Spammer2\Build\Billy's Spammer.exe.config
+C:\Users\Billy\Desktop\Other\Coding\C#\Spammer2\Spammer2\Build\Billy's Spammer.exe
+C:\Users\Billy\Desktop\Other\Coding\C#\Spammer2\Spammer2\Build\Billy's Spammer.pdb
+C:\Users\Billy\Desktop\Other\Coding\C#\Spammer2\Spammer2\obj\Release\Spammer.Form1.resources
+C:\Users\Billy\Desktop\Other\Coding\C#\Spammer2\Spammer2\obj\Release\Spammer.Properties.Resources.resources
+C:\Users\Billy\Desktop\Other\Coding\C#\Spammer2\Spammer2\obj\Release\Spammer2.csproj.GenerateResource.Cache
+C:\Users\Billy\Desktop\Other\Coding\C#\Spammer2\Spammer2\obj\Release\Spammer2.csproj.CoreCompileInputs.cache
+C:\Users\Billy\Desktop\Other\Coding\C#\Spammer2\Spammer2\obj\Release\Billy's Spammer.exe
+C:\Users\Billy\Desktop\Other\Coding\C#\Spammer2\Spammer2\obj\Release\Billy's Spammer.pdb
+C:\Users\Billy\Desktop\Other\Coding\C#\Spammer2\Spammer2\obj\Release\Spammer2.csprojResolveAssemblyReference.cache
